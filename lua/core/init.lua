@@ -3,4 +3,4 @@ require("core.maps")
 require("core.lazy")
 require("core.autocmds")
 
-Color("gruvbox")
+Color("ayu-dark")

@@ -9,7 +9,8 @@ return {
 				typescript = { "prettier" },
 				c = { "clang-format" },
 				cpp = { "clang-format" },
-				markdown = { "mdformat" },
+				markdown = { "prettier" },
+				go = { "gofmt" },
 			},
 			format_on_save = {
 				timeout_ms = 500,

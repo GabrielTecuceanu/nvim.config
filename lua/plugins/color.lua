@@ -14,6 +14,8 @@ return {
 	"lifepillar/vim-solarized8",
 	"Mofiqul/vscode.nvim",
 	"projekt0n/github-nvim-theme",
+	"Shatur/neovim-ayu",
+	"shaunsingh/nord.nvim",
 	{
 		"ellisonleao/gruvbox.nvim",
 		priority = 1000,

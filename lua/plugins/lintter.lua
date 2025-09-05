@@ -5,7 +5,7 @@ return {
 
 		lint.linters_by_ft = {
 			c = { "clangtidy" },
-			json = { "jsonlint" },
+			-- json = { "jsonlint" },
 		}
 
 		vim.api.nvim_create_autocmd({
