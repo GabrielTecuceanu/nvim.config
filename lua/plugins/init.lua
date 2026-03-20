@@ -7,6 +7,7 @@ return {
 		lazy = false,
 	},
 	{ "tpope/vim-surround" },
+	{ "tpope/vim-fugitive" },
 	{
 		"folke/todo-comments.nvim",
 		dependencies = { "nvim-lua/plenary.nvim" },

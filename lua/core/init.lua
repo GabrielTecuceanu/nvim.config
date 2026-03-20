@@ -3,4 +3,4 @@ require("core.maps")
 require("core.lazy")
 require("core.autocmds")
 
-Color("ayu-dark")
+Color("vscode")
